@@ -13,6 +13,7 @@
   <li><a href="https://arxiv.org/pdf/1706.03762">Attention Is All You Need</a></li>
 
   <li><a href="https://arxiv.org/pdf/2305.06500">InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning</a></li>
+  <li><a href="https://arxiv.org/pdf/2003.05991">Autoencoders</a></li>
 
 </ul>
 
