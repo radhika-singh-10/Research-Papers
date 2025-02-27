@@ -18,3 +18,13 @@
 </ul>
 
 ## ii. Language Models
+
+<ul>
+
+  <li> 
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf">Training language models to follow instructions
+with human feedback</a>
+  </li>
+</ul>
+
+
