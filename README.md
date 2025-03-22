@@ -35,4 +35,7 @@ with human feedback</a>
       In Search of an Understandable Consensus Algorithm
     </a>
   </li>
+  <li>
+    <a href="https://www.cockroachlabs.com/blog/scaling-raft/">Scaling Raft</a>
+  </li>
 </ul>
